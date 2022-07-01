@@ -1,5 +1,5 @@
 {
-  "name": "dioRN",
+  "name": "dioflashlight",
   "version": "0.0.1",
   "private": true,
   "scripts": {
@@ -11,7 +11,9 @@
   },
   "dependencies": {
     "react": "18.0.0",
-    "react-native": "0.69.1"
+    "react-native": "0.69.1",
+    "react-native-shake": "^5.1.1",
+    "react-native-torch": "^1.2.0"
   },
   "devDependencies": {
     "@babel/core": "^7.12.9",
