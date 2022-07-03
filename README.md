@@ -1,4 +1,4 @@
-# julia-dio-flashlight
+# dio-flashlight
 Este projeto foi realizado em conjunto com o bootcamp DecolaTech 3 da DIO (Digital Innovation One)
 
 # Algumas informações
